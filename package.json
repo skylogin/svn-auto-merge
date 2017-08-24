@@ -1,0 +1,15 @@
+{
+  "name": "auto-merge",
+  "version": "1.0.0",
+  "description": "eHR auto merge system for CJ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Chanho Jung",
+  "license": "ISC",
+  "dependencies": {
+    "node-svn-ultimate": "^1.1.0"
+  }
+}
