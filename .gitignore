@@ -56,3 +56,12 @@ typings/
 
 # dotenv environment variables file
 .env
+
+
+# config file
+config/config.js
+config/source.txt
+
+
+#repository
+repo/

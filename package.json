@@ -1,5 +1,5 @@
 {
-  "name": "auto-merge",
+  "name": "svn-auto-merge",
   "version": "1.0.0",
   "description": "eHR auto merge system for CJ",
   "main": "app.js",
@@ -10,6 +10,8 @@
   "author": "Chanho Jung",
   "license": "ISC",
   "dependencies": {
-    "node-svn-ultimate": "^1.1.0"
+    "node-svn-ultimate": "^1.1.0",
+    "progress": "^2.0.0",
+    "readline": "^1.3.0"
   }
 }
